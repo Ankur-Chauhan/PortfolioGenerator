@@ -1,0 +1,12 @@
+ifconfig/netstat -ie broadcast IP
+exanic-config
+
+grep "literal string" files
+find path -name "query"
+
+Extend with this for only important files-
+2>/dev/null
+
+Core CPU-
+demidecode -t processor
+cat /proc/cpuinfo
